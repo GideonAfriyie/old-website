@@ -49,7 +49,7 @@ With the larger dataset, the limiting distribution shifted naturally from **Fré
 
 I also revisited one of the central criticisms of the paper.
 
-Rather than relying primarily on an Augmented Dickey-Fuller (ADF) test, I used an **Autocorrelation Function (ACF)** analysis of prime gaps to examine serial dependence. The results showed negligible autocorrelation beyond lag 10, supporting the assumption of approximate independence used in Extreme Value Theory.
+Rather than relying primarily on an Augmented Dickey-Fuller (ADF) test, I used an **Autocorrelation Function (ACF)** analysis of prime gaps to examine serial dependence.
 
 ![Distribution Shift]({{ site.baseurl }}/images/prime-gap-evt.png)
 
