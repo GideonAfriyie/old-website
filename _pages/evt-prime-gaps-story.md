@@ -49,13 +49,7 @@ With the larger dataset, the limiting distribution shifted naturally from **Fré
 
 I also revisited one of the central criticisms of the paper.
 
-Rather than relying primarily on an Augmented Dickey-Fuller (ADF) test, I introduced an **Autocorrelation Function (ACF)** analysis of the normalized prime gaps,
-
-$$
-\frac{g_n}{\log p_n},
-$$
-
-to demonstrate that the sequence behaves statistically much like independent, identically distributed random variables—the key assumption underlying the Extreme Value Theory framework.
+Rather than relying primarily on an Augmented Dickey-Fuller (ADF) test, I used an **Autocorrelation Function (ACF)** analysis of prime gaps to examine serial dependence. The results showed negligible autocorrelation beyond lag 10, supporting the assumption of approximate independence used in Extreme Value Theory.
 
 ![Distribution Shift]({{ site.baseurl }}/images/prime-gap-evt.png)
 
@@ -63,7 +57,7 @@ to demonstrate that the sequence behaves statistically much like independent, id
 
 ![ACF Analysis]({{ site.baseurl }}/images/acf_validation_50m.png)
 
-*Figure 2. Autocorrelation analysis of normalized prime gaps showing the weak dependence required for applying Extreme Value Theory.*
+*Figure 2. Autocorrelation analysis of prime gaps showing the weak dependence required for applying EVT.*
 
 ---
 
