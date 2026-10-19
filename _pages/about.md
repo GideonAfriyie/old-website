@@ -56,7 +56,7 @@ Right now, I am:
 <div class="experience-item">
   <p><a href="https://www.gettysburg.edu/">Gettysburg College</a> — <em>3D Topographic Modeling Research Assistant</em>. Aug 2026 – present.</p>
   <div class="experience-gallery">
-    <a href="/images/experience/terrain-printed.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/terrain-printed.jpg" alt="Physical 3D printed topographic model" loading="lazy"><small>3D print</small></a>
+    <a href="/images/experience/terrain-printed.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/terrain-printed.jpg" alt="Physical 3D printed topographic model" loading="lazy"><small>3D print prototype</small></a>
     <a href="/images/experience/terrain-digital.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/terrain-digital.jpg" alt="Digital terrain model preview" loading="lazy"><small>Digital model</small></a>
     <a href="/images/experience/terrain-qgis.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/terrain-qgis.jpg" alt="QGIS terrain mapping project" loading="lazy"><small>QGIS</small></a>
     <a href="/images/experience/terrain-slicer.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/terrain-slicer.jpg" alt="Creality Print slicer preview" loading="lazy"><small>Print preparation</small></a>
@@ -84,7 +84,10 @@ Right now, I am:
 <div class="experience-item">
   <p><a href="https://iaifi.org/phd-summer-school.html#%23agenda">MIT/Harvard IAIFI</a> — <em>AI Summer School</em>. Aug 2026.</p>
   <div class="experience-gallery">
-    <a class="wide" href="/images/experience/iaifi-certificate.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/experience/iaifi-certificate.jpg" alt="IAIFI Summer School certificate of participation" loading="lazy"><small>Certificate of participation</small></a>
+    <a class="wide" href="/files/IAIFI_Summer_School_2026_Certificate.pdf" target="_blank" rel="noopener noreferrer">
+      <img src="/images/experience/iaifi-certificate.jpg" alt="IAIFI Summer School certificate of participation" loading="lazy">
+      <small>Certificate of participation ↗</small>
+    </a>
   </div>
 </div>
 
