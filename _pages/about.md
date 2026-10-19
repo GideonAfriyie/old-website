@@ -84,7 +84,7 @@ Right now, I am:
 <div class="experience-item">
   <p><a href="https://iaifi.org/phd-summer-school.html#%23agenda">MIT/Harvard IAIFI</a> — <em>AI Summer School</em>. Aug 2026.</p>
   <div class="experience-gallery">
-    <a class="wide" href="/files/IAIFI_Summer_School_2026_Certificate.pdf" target="_blank" rel="noopener noreferrer">
+    <a class="wide" href="/files/IAIFI_Summer-School-2026_Certificate%20of%20Participation.pdf" target="_blank" rel="noopener noreferrer">
       <img src="/images/experience/iaifi-certificate.jpg" alt="IAIFI Summer School certificate of participation" loading="lazy">
       <small>Certificate ↗</small>
     </a>
